@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=alvinzf)
 
 Hey there 👋
 
@@ -62,3 +63,7 @@ Want to know more about me?
 
 <br>
 
+## Leave some star and follow me before leave
+<div align=center>
+<img src="https://c.tenor.com/_juJD5UIUGIAAAAC/steins-gate-mayuri.gif" width="500">
+</div>
