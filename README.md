@@ -15,11 +15,11 @@ Want to know more about me?
 <br>
 <div align=center>
 <a href="https://github.com/alvinzf">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinzf&hide=html,css&title_color=e3be7a&text_color=c9cacc&icon_color=4AB197&bg_color=1d2125" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinzf&hide=html,css&title_color=e3be7a&text_color=c9cacc&icon_color=4AB197&bg_color=0d1117" />
 </a>
   <div style="margin-bottom : 10px"></div>
 <a href="https://github.com/alvinzf">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=alvinzf&show_icons=true&line_height=27&count_private=true&title_color=e3be7a&text_color=c9cacc&icon_color=4AB097&bg_color=1d2125" alt="Alvin Github Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=alvinzf&show_icons=true&line_height=27&count_private=true&title_color=e3be7a&text_color=c9cacc&icon_color=4AB097&bg_color=0d1117" alt="Alvin Github Stats" />
 </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alvinzf&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
