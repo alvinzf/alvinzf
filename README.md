@@ -2,7 +2,7 @@
 
 Hey there 👋
 
-I’m Alvin, a newbie full-stack developer, creative coder and self-proclaimed designer who specializes in mobile development. I make it my mission to translate gadget language to human languange using awsome code ^^
+I’m Alvin, a newbie full-stack developer, creative coder and self-proclaimed designer who specializes in mobile development. I make it my mission to translate machine language to human languange using awesome code ^^
 
 Want to know more about me? 
 
