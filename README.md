@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=alvinzf)
 
-Hey there 👋
+Hey there! 👋
 
 I’m Alvin, a newbie full-stack developer, creative coder and self-proclaimed designer who specializes in mobile development. I make it my mission to translate machine language to human languange using awesome code ^^
 
