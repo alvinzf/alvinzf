@@ -2,10 +2,9 @@
 
 Hey there! 👋
 
-I’m Alvin, a newbie full-stack developer, creative coder and self-proclaimed designer who specializes in mobile development. I make it my mission to translate machine language to human languange using awesome code ^^
+I’m Alvin, fresh graduate computer engineer, creative coder and self-proclaimed designer who specializes in mobile development. I make it my mission to translate machine language to human languange using awesome code ^^
 
 Want to know more about me? 
-visit here https://alvinzulham.herokuapp.com/
 
 <a href="https://linkedin.com/in/alvinzf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-alvinzf" height="30" width="40" /></a>
 <a href="https://instagram.com/alvinzulham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-alvinzulham" height="30" width="40" /></a>
